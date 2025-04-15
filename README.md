@@ -40,11 +40,6 @@ Welcome to my GitHub profile! I'm a data professional passionate about uncoverin
 - 🔍 [**Data Analysis Projects**](https://github.com/fawadahmed799/Data-Analysis)  
   End-to-end analysis using SQL, Python, Power BI & more.
 
-- 🤖 [**LangChain + Confluence Automation**](https://github.com/fawadahmed799/Data-Analysis/tree/main/GenAI%20with%20Confluence)  
-  Automating knowledge management using LLMs.
-
-- 📉 [**Stock Market Time Series Analysis**](https://github.com/fawadahmed799/Data-Analysis/tree/main/Stocks%20Data%20Analysis)  
-  Financial data analysis with Python and visualization libraries.
 
 ---
 
